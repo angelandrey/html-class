@@ -1,7 +1,7 @@
 # html-class
 
 # programa
-![image](https://github.com/user-attachments/assets/41000710-852f-48d8-8bab-8e1571d2b372)
+![image](https://github.com/user-attachments/assets/bbd0b049-3c78-426a-a281-e361b2755234)
 
 # Ejecucion
-![image](https://github.com/user-attachments/assets/e6e8f7cb-55bf-445d-ad9a-33cae3d70a70)
+![image](https://github.com/user-attachments/assets/ebcb6e96-d331-4240-b040-9a66b3b0f773)
